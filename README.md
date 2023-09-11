@@ -12,5 +12,5 @@ The .ipynb file contains two tries. In the first, I tried to extract actual twee
    - Removing hashtags, mentions, URLs, formatting symbols, escape characters, etc.
    - Removing Stop words
    - Applying Stemming and Lemmatization to create two seperate cleaned dataframes for testing
-   - Applied many classification models for sentiment anaylsis.
+3. ### Applied many classification models for sentiment anaylsis.
    - Models include:- **LSTM** ,**Neural Network**, **Logistic Regression**, **Random Forrest Classifier** and **Decision Tree Classifier**.
